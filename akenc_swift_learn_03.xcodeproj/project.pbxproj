@@ -26,6 +26,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E4B4456C1BCC1605001BB4E6 /* p0.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = p0.playground; sourceTree = "<group>"; };
+		E4B4456D1BCC1665001BB4E6 /* p1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = p1.playground; sourceTree = "<group>"; };
+		E4B4456E1BCC16B1001BB4E6 /* p2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = p2.playground; sourceTree = "<group>"; };
 		E4B8C0751BCB91DE00426DF6 /* akenc_swift_learn_03 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = akenc_swift_learn_03; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4B8C0781BCB91DE00426DF6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		E4B8C07F1BCB922400426DF6 /* p1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = p1.swift; sourceTree = "<group>"; };
@@ -67,6 +70,9 @@
 				E4B8C0811BCB967900426DF6 /* p0.swift */,
 				E4B8C07F1BCB922400426DF6 /* p1.swift */,
 				E4B8C0831BCB9B7F00426DF6 /* p2.swift */,
+				E4B4456C1BCC1605001BB4E6 /* p0.playground */,
+				E4B4456D1BCC1665001BB4E6 /* p1.playground */,
+				E4B4456E1BCC16B1001BB4E6 /* p2.playground */,
 			);
 			path = akenc_swift_learn_03;
 			sourceTree = "<group>";
@@ -248,6 +254,7 @@
 				E4B8C07E1BCB91DE00426DF6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

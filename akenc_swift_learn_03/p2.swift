@@ -66,8 +66,24 @@ let hexadecimalNumb = 0xff;
 
 //4.Bool布尔类型
 
+//终于不是YES OR NO 了，和JAVA/C一样了
+let b1 = true;
+let b2 = false;
+let b3 = Bool(2);//not 0 is true;
+let b4 = Bool(0);// 0 is false;
+let b5 = Bool(true);
+let b6 = Bool(false);
 
+//5.元祖类型(mooncake)
+let tup1 = (age:1,name:"abc",height:1,width:2);//带元素名称
+let tup2 = (1,"abc",1,2);//省略元素名称
+let tup3:(String,Int) = ("abc",2);
+var (t1,t2) = tup3;
+var (_,t3) = tup3;//t3不能与t2一样，看来括号并没有隔离作用域
 
+//6.可选值
+var possibleNumber = "123";
+var convertNumber:Int? = possibleNumber.toInt();
 
 
 
