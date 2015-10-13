@@ -83,7 +83,7 @@ var (_,t3) = tup3;//t3不能与t2一样，看来括号并没有隔离作用域
 
 //6.可选值
 var possibleNumber = "123";
-var convertNumber:Int? = possibleNumber.toInt();
+//var convertNumber:Int? = possibleNumber.toInt();
 
 
 
